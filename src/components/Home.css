@@ -1,0 +1,22 @@
+section{
+    padding-top: 3rem;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+}
+div{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+#root{
+    margin-top: 2.5rem;
+}
+h1{
+    font-size: 1.875rem;
+    line-height: 2.25rem; 
+    font-weight: bold;
+    letter-spacing: -0.05em;
+    color: rgb(17 24 39);
+}
+p{
+    color: rgb(107 114 128);
+}
