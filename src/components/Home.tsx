@@ -2,13 +2,13 @@ import './Home.css'
 
 function Home(){
     return(
-        <section>
-        <div id="root">
-          <div id="leaf">
-            <h1>
+        <section className="home">
+        <div className="home-root">
+          <div className="home-leaf">
+            <h1 className="home-title">
                 Quentin Bouchard
             </h1>
-            <p>
+            <p className="home-description">
                 Développeur back-end/fullstack autonome, autodidacte, curieux, organisé et motivé à la recherche de nouvelles opportunités.
             </p>
           </div>
