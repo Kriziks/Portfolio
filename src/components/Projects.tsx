@@ -8,10 +8,10 @@ function Projects(){
                 <div className="projects-branch1">
                     <div className="projects-leaf1">
                         <h2 className="projects-title">
-                            Mes Projets
+                            My Projects
                         </h2>
                         <p className="projects-description">
-                            Voici quelques projets sur lesquelles j'ai travaillé dernièrement.
+                            Check out some of the projects I've worked on.
                         </p>
                     </div>
                 </div>

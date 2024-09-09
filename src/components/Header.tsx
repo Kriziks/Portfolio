@@ -5,7 +5,7 @@ function Header(){
         <header>
             <h1>&lt;/&gt;</h1>
             <nav className="menu">
-                <ul>
+                <ul className="header-list">
                     <a href="#" >Home</a>
                     <a href="#" >Projects</a>
                     <a href="#" >Skills</a>

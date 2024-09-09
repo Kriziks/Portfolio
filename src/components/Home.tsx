@@ -9,7 +9,7 @@ function Home(){
                 Quentin Bouchard
             </h1>
             <p className="home-description">
-                Développeur back-end/fullstack autonome, autodidacte, curieux, organisé et motivé à la recherche de nouvelles opportunités.
+                I'm a passionate, autonomous, self-taught, curious, organised and motivated back-end and fullstack developer looking for new opportunities.
             </p>
           </div>
         </div>

@@ -6,7 +6,7 @@ header {
 h1{
     margin: 0px;
 }
-ul{
+.header-list{
     display: flex;
     align-items: center;
     margin: 0px;
