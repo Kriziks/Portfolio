@@ -2,7 +2,7 @@ import './Skills.css'
 
 function Skills(){
     return(
-        <section className="skills">
+        <section id="skills" className="skills">
             <div className="skills-root">
                 <div className="skills-branch1">
                     <div className="skills-leaf1">
@@ -20,14 +20,15 @@ function Skills(){
                         <ul className="skills-list1">
                             <p>HTML</p>
                             <p>CSS</p>
-                            <p>PHP<br/></p>
-                            <p>CakePHP<br/></p>
-                            <p>Symfony<br/></p>
-                            <p>JavaScript<br/></p>
-                            <p>React<br/></p>
-                            <p>Spring<br/></p>
-                            <p>Servlet<br/></p>
-                            <p>Jersey<br/></p>
+                            <p>PHP</p>
+                            <p>CakePHP</p>
+                            <p>Symfony</p>
+                            <p>JavaScript</p>
+                            <p>TypeScript</p>
+                            <p>React</p>
+                            <p>Spring</p>
+                            <p>Servlet</p>
+                            <p>Jersey</p>
                         </ul>
                     </div>
                     <div className="skills-leaf3">

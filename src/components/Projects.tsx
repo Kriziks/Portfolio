@@ -3,7 +3,7 @@ import Card from './ui/Card';
 
 function Projects(){
     return(
-        <section className="projects">
+        <section id="projects" className="projects">
             <div className="projects-root">
                 <div className="projects-branch1">
                     <div className="projects-leaf1">

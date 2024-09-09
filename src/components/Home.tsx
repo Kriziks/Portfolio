@@ -2,7 +2,7 @@ import './Home.css'
 
 function Home(){
     return(
-        <section className="home">
+        <section id="home" className="home">
         <div className="home-root">
           <div className="home-leaf">
             <h1 className="home-title">
